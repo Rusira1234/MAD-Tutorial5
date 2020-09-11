@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial5-Data Handling</string>
+    <string name="UN">UserName</string>
+    <string name="PW">Password</string>
+    <string name="Select">Select All</string>
+    <string name="Add">Add</string>
+    <string name="Sign_IN">SignIN</string>
+    <string name="Delete">Delete</string>
+    <string name="Update">Update</string>
+</resources>
